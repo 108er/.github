@@ -1,12 +1,12 @@
 # Welcome to the Organisation [108er]
 
-## 🌟 About Us
+## About Us
 
 We are a group of chem students focused on improving our programming skills by solving chemistry problems. Our first and current project aims to tackle redox equations by programming.
 
 ---
 
-## 🔬 Our Project
+## Our Project(s)
 
 ### Redox Equation Solver
    - **Description**: A program to automate the balancing of redox equations.
@@ -14,7 +14,7 @@ We are a group of chem students focused on improving our programming skills by s
 
 ---
 
-## 📚 How to Get Started
+## How to Get Started
 
 1. **Fork and Clone**: Check out our repository, fork it, and clone it to your local system.
    ```bash
@@ -25,13 +25,13 @@ We are a group of chem students focused on improving our programming skills by s
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributors of all skill levels! Find an issue, discuss your ideas, and help us improve.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
