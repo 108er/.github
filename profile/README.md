@@ -16,9 +16,9 @@ We are a group of chem students focused on improving our programming skills by s
 
 ## How to Get Started
 
-1. **Fork and Clone**: Check out our repository, fork it, and clone it to your local system.
+1. **Fork and Clone**: Check out our repository, fork it, and clone it to your local system. Here as an example our most recent project.
    ```bash
-   git clone https://github.com/[108er]/[RedoxSolver].git
+   git clone https://github.com/108er/RedoxSolver.git
    ```
 2. **Explore**: Read the documentation and understand the project.
 3. **Contribute**: Submit pull requests or report issues.
